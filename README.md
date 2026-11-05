@@ -30,3 +30,7 @@ gh-workflow-cost --repo owner/example --since 30d --group-by matrix --format csv
 ## License
 
 MIT
+
+---
+
+Archived on 2026-11-05. The idea moved to [gha-cache-optimizer](https://github.com/moveeeax/gha-cache-optimizer/issues/2).
